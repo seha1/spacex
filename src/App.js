@@ -10,14 +10,14 @@ import './style.css'
 function App() {
   return (
     <>
-    <Header />
-    <Main />
-    <Features />
-    <Footer />
-    {/* <Calendar /> */}
+      <Header />
+      <Main />
+      <Features />
+      <Footer />
+      {/* <Calendar /> */}
 
 
-  </>
+    </>
   );
 }
 
